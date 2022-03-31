@@ -47,7 +47,7 @@ An open-source python library built to empower developers to build applications 
 
 --------------------------------------------------------------------------------------------
 
-## Output on the Validation Set from the [output Images Folder and Output Images Folder](https://github.com/shalini-ds/OBJECT-DETECTION-USING-ImageAI/tree/Shalini/Output-images)(https://github.com/shalini-ds/OBJECT-DETECTION-USING-ImageAI/tree/Shalini/Input-images) 
+## Output on the Validation Set from the [output Images Folder](https://github.com/shalini-ds/OBJECT-DETECTION-USING-ImageAI/tree/Shalini/Output-images) 
 * The format on the bounding boxes is (label, confidence)
 <table border="0">
   <tr>
