@@ -2,7 +2,7 @@
 
 ## Training a model to detect two objects that is cars and persons in an image.
 
-An open-source python library built to empower developers to build applications and systems with self-contained Deep Learning and Computer Vision capabilities using simple and few lines of code.
+ImagAI is an open-source python library built to empower developers to build applications and systems with self-contained Deep Learning and Computer Vision capabilities using simple and few lines of code.
 
 --------------------------------------------------------------------------------------------
 
