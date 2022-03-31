@@ -43,7 +43,7 @@ An open-source python library built to empower developers to build applications 
 ## Training
 * A ImageAI model pretrained on resnet50_coco_best_v2.1.0.h5 was used to apply transfer learning, by specifying the custom dataset.
 
-* Please refer to the [Colab Training Jupyter Notebook](https://colab.research.google.com/drive/12Q8PYt3pTlNpQwrxM82K5btkOgsXiDwJ?usp=sharing)
+* Please refer to the [python file](https://github.com/shalini-ds/OBJECT-DETECTION-USING-ImageAI/tree/Shalini/Code-file)
 
 --------------------------------------------------------------------------------------------
 
