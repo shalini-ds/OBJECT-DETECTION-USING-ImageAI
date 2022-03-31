@@ -49,3 +49,22 @@ An open-source python library built to empower developers to build applications 
 
 ## Output on the Validation Set from the [output Images folder](https://github.com/keshavgarg139/car-person-detection/tree/main/predictions)
 * The format on the bounding boxes is (label, confidence)
+<table border="0">
+  <tr>
+    <td>INPUT</td>
+    <td>OUTPUT</td>
+  </tr>
+ <tr>
+    <td>
+<img src="https://github.com/shalini-ds/OBJECT-DETECTION-USING-ImageAI/blob/Shalini/Input-images/image_000000003.jpg"></td>
+    <td><img src="https://github.com/shalini-ds/OBJECT-DETECTION-USING-ImageAI/blob/Shalini/Output-images/image_000000003.jpg"></td>
+ </tr>
+ <tr>
+    <td><img src="https://github.com/shalini-ds/OBJECT-DETECTION-USING-ImageAI/blob/Shalini/Input-images/image_000000005.jpg"></td>
+    <td><img src="https://github.com/shalini-ds/OBJECT-DETECTION-USING-ImageAI/blob/Shalini/Output-images/image_000000005.jpg"></td>
+ </tr>
+ <tr>
+    <td><img src="https://github.com/shalini-ds/OBJECT-DETECTION-USING-ImageAI/blob/Shalini/Input-images/image_000000026.jpg"></td>
+    <td><img src="https://github.com/shalini-ds/OBJECT-DETECTION-USING-ImageAI/blob/Shalini/Output-images/imagenew.jpg"></td>
+ </tr>  
+</table>
