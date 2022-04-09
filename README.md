@@ -31,7 +31,7 @@ ImagAI is an open-source python library built to empower developers to build app
 --------------------------------------------------------------------------------------------
 
 
-## Preprocessing Stage
+## Preprocessing Stages
 
 * There were two things as inputs 1) Annotations Json 2) Images folder
 * I preprocessed the dataset in the format required by the ImageAI standards.
@@ -40,7 +40,7 @@ ImagAI is an open-source python library built to empower developers to build app
 
 --------------------------------------------------------------------------------------------
 
-## Training
+## Training Model
 * A ImageAI model pretrained on resnet50_coco_best_v2.1.0.h5 was used to apply transfer learning, by specifying the custom dataset.
 
 * Please refer to the [python file](https://github.com/shalini-ds/OBJECT-DETECTION-USING-ImageAI/tree/Shalini/Code-file)
